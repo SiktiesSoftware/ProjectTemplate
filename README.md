@@ -1,70 +1,110 @@
-<div align="center">
-    <h1>ProjectTemplate</h1>
-    <i>Hi, welcome to my project, hope you will like it !</i>                        <br />
-    <b> > ENJOY < </b>
-</div>
-<div align="center">
-    <h2>Languages and libraries used for this project</h2>
-    <h3> Languages </h3>
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/C.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Cpp.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Csharp.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Java.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Swift.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Html.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Css.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Javascript.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Typescript.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Php.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Blade.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Dart.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Rust.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Go.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Powershell.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Python.png" />
-                                                                                     <br />
-    <h3> Databases </h3>
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sql.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sqlite.png" />
-                                                                                     <br />
-    <h3> Libraries </h3>
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Lwjgl.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sfml.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/OpenGl.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Laravel.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/React.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Meteor.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Angular.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Three.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Next.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Vue.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Electron.png" />
-                                                                                     <br />
-    <h3> Engine </h3>
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Unity.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/UnrealEngine.png" />
-                                                                                     <br />
-</div>
-<div align="center">
-   <h2 align="center">Table of Contents</h2>
-  
-   [What's the project ?](#the-project)                                              <br />
-   [Features](#features)                                                             <br />
-   [Contributors](#contributors)                                                     <br />
-   [Other links](#other-links)
-</div>
+# 🚀 Supernova E-Commerce Platform
 
-<div align="center">
+> **A blazing fast, fully authenticated MERN stack application.**
 
-   ## The project
+Welcome to the official repository for **Supernova**! This project is a complete, scalable e-commerce solution designed to handle user authentication, product management, and secure checkout processes. It was built to demonstrate modern full-stack development best practices, including responsive UI design and robust API architecture.
 
-   ## Features
+---
 
-   ## Contributors
-   | <b> <a href="https://github.com/dam277">Damien Loup</a> </b>       |
-   |:------------------------------------------------------------------:|
-   | <img height="200px" src="https://avatars.githubusercontent.com/u/60733960?v=4" /> |
-   
-   ## Other links
-   <a href="https://dam277.github.io/dam277/">Portfolio</a>                     <br />
-</div>
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Libraries & Frameworks
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📑 Table of Contents
+
+1. [Features](#features)
+2. [Getting Started](#getting-started)
+3. [Usage](#usage)
+4. [Contributors](#contributors)
+5. [License & Links](#license--links)
+
+---
+
+## ✨ Features
+
+* **User Authentication:** Secure login and registration using JWT and bcrypt.
+* **Product Dashboard:** Admin panel to add, edit, and delete store items.
+* **Shopping Cart:** Real-time cart state management using React Context API.
+* **Secure Checkout:** Integrated with the Stripe API for handling payments.
+* **Responsive Design:** Fully mobile-optimized layouts using Tailwind CSS.
+
+---
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Before installation, please ensure you have the following installed on your machine:
+* **Node.js** (v18.0 or higher)
+* **Git**
+* A running instance of **MongoDB** (Local or Atlas)
+
+### Installation
+
+1. **Clone the repo:**
+   `git clone https://github.com/dam277/supernova-ecommerce.git`
+
+2. **Navigate into the project directory:**
+   `cd supernova-ecommerce`
+
+3. **Install NPM packages (Client & Server):**
+   `npm run install-all`
+
+4. **Set up your environment variables:**
+   Create a `.env` file in the root directory and add your keys (see `.env.example` for reference):
+   ```env
+   PORT=5000
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret
+   STRIPE_KEY=your_stripe_api_key
+   ```
+
+5. **Start the development server:**
+   `npm run dev`
+
+---
+
+## 💻 Usage
+
+*(Add some screenshots, GIFs, or code examples here to show off what your project actually looks like in action!)*
+
+> **Live Demo:** [Check out the live deployment here!](https://your-live-project-url.com)
+
+---
+
+## 🤝 Contributors
+
+A huge thank you to everyone who has contributed to making this project a reality!
+
+| **[Damien Loup](https://github.com/dam277)** | 
+| :---: | 
+| [![Damien Loup](https://avatars.githubusercontent.com/u/60733960?v=4&s=150)](https://github.com/dam277) |
+| 👑 *Project Creator <br> & Lead Developer* |
+
+*Want to contribute? Please fork the repository and create a pull request, or open an issue to discuss what you'd like to change.*
+
+---
+
+## 🔗 License & Links
+
+* **Live Project:** [supernova.com](https://example.com)
+* **Bug Tracker:** [Report an Issue](https://github.com/dam277/supernova-ecommerce/issues)
+* **License:** Distributed under the MIT License. See `LICENSE` for more information.
