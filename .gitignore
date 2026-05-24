@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+.pnpm-debug.log
+
+# Local system or environment files
+.env
+.env.local
+.DS_Store
+
+# IDE and editor files
+.idea/
+.vscode/
